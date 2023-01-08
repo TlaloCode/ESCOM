@@ -1,0 +1,18 @@
+\contentsline {section}{\numberline {1}\color {colorIPN}{Introducción}}{1}{}%
+\contentsline {section}{\numberline {2}\color {colorIPN}{Definiciones}}{1}{}%
+\contentsline {subsection}{\numberline {2.1}\color {colorESCOM}{Servlet}}{1}{}%
+\contentsline {subsection}{\numberline {2.2}\color {colorGENERICO}{JDBC}}{1}{}%
+\contentsline {subsection}{\numberline {2.3}\color {colorGENERICO}{Conectores}}{2}{}%
+\contentsline {section}{\numberline {3}\color {colorIPN}{Desarrollo}}{3}{}%
+\contentsline {subsection}{\numberline {3.1}\color {colorESCOM}{Clase Categoria}}{3}{}%
+\contentsline {subsection}{\numberline {3.2}\color {colorESCOM}{Presentación del CRUD}}{3}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}\color {colorGENERICO}{Crear}}{4}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}\color {colorGENERICO}{Leer}}{4}{}%
+\contentsline {subsubsection}{\numberline {3.2.3}\color {colorGENERICO}{Actualizar}}{5}{}%
+\contentsline {subsubsection}{\numberline {3.2.4}\color {colorGENERICO}{Borrar}}{6}{}%
+\contentsline {subsection}{\numberline {3.3}\color {colorESCOM}{Formularios y validaciones}}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}\color {colorGENERICO}{Actualizar}}{6}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}\color {colorGENERICO}{Agregar}}{7}{}%
+\contentsline {subsection}{\numberline {3.4}\color {colorESCOM}{Resultados}}{8}{}%
+\contentsline {section}{\numberline {4}\color {colorIPN}{Conclusiones}}{12}{}%
+\contentsline {section}{\numberline {5}\color {colorIPN}{Referencias Bibliográficas}}{13}{}%
